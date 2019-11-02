@@ -1,4 +1,4 @@
-# saltshaker282mk2.github.io
+# Homework02
 NU Bootcamp Unit02
 
 10/27/19-
@@ -22,3 +22,4 @@ First hard push with 66% of all master code completed- pages 1-2 complete with b
 -dropdown/scaled down button now functional- no links provided in those yet 
 -tried fixing alignment issues with index.html Car Picture 2, results unsuccessful.
 -tested responsiveness, basic responsiveness achived via columns, not the best however.
+-Changed name of READ.ME to proper name of project
